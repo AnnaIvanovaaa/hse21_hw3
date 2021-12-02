@@ -1,2 +1,2 @@
-# hse21_hw3
+# Google colab
 https://colab.research.google.com/drive/1GdcZHVSoo04PftGtoRACEA0kSWurUwwh#scrollTo=OhzSksLUkJbi
