@@ -1,8 +1,7 @@
-Я разделила обработку данных на два ноутбука, так как не хватает памяти на диске для выполнения все в одном
-# Google colab (29,30,31)
+
+# Google colab 
 https://colab.research.google.com/drive/1brGDt6mkPRNz2lLy53fdE4k14rIzk3Gl?usp=sharing
 
-# Google colab (35,36,37)
 
 
 # FastQC (29)
