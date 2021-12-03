@@ -53,7 +53,27 @@ file:///C:/Users/СергейИванов/Downloads/SRR3414631_1_fastqc.html
 Кол-во и процент уникально откартированных чтений:  17844858 87.54%
 Общее кол-во чтений, которые попали на гены: 17844858-1397650-710230= 15736978
 
+
+id	condition
+<chr>	<chr>
+c1	SRR3414629	control
+c2	SRR3414630	control
+c3	SRR3414631	control
+r1	SRR3414635	reprogramming
+r2	SRR3414636	reprogramming
+r3	SRR3414637	reprogramming
+  
+  A matrix: 6 × 6 of type int
+c1	c2	c3	r1	r2	r3
+ENSMUSG00000000001.4	3431	3504	4031	4489	3919	5700
+ENSMUSG00000000003.15	0	0	0	0	0	0
+ENSMUSG00000000028.15	150	136	152	345	273	468
+ENSMUSG00000000031.16	55526	48225	56064	64504	33249	64992
+ENSMUSG00000000037.17	41	44	52	77	68	87
+ENSMUSG00000000049.11	10	8	10	4	1	1
+
 # Графики из анализа DESeq2
 MA-plot:
 Тепловая карта:
 Normalized counts:
+
