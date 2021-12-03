@@ -15,10 +15,10 @@ https://colab.research.google.com/drive/1jbP71nk8H8dIXg4rAW1NT42WPVcQbM7I?usp=sh
 
 # FastQC (30)
 ![image](https://user-images.githubusercontent.com/93247992/144602050-85fccc35-352e-42fb-90fc-942ff14e0a92.png)
-**Общее количество чтений: 15244711
-**Кол-во, которое удалось успешно откартировать (уникально и не уникально): 13186139 + 1646541 = 14832680 97.30%
-**Кол-во и процент уникально откартированных чтений: 13186139 86.50%
-**Общее кол-во чтений, которые попали на гены:  13186139-1240295-480520=11465324
+Общее количество чтений: 15244711
+Кол-во, которое удалось успешно откартировать (уникально и не уникально): 13186139 + 1646541 = 14832680 97.30%
+Кол-во и процент уникально откартированных чтений: 13186139 86.50%
+Общее кол-во чтений, которые попали на гены:  13186139-1240295-480520=11465324
 
 # FastQC (31)
 ![image](https://user-images.githubusercontent.com/93247992/144605747-b91a6a81-fa23-4af0-b355-a1db29f81746.png)
@@ -52,26 +52,14 @@ https://colab.research.google.com/drive/1jbP71nk8H8dIXg4rAW1NT42WPVcQbM7I?usp=sh
 Общее кол-во чтений, которые попали на гены: 17844858-1397650-710230= 15736978
 
 
-id	condition
-<chr>	<chr>
-c1	SRR3414629	control
-c2	SRR3414630	control
-c3	SRR3414631	control
-r1	SRR3414635	reprogramming
-r2	SRR3414636	reprogramming
-r3	SRR3414637	reprogramming
-  
-  A matrix: 6 × 6 of type int
-c1	c2	c3	r1	r2	r3
-ENSMUSG00000000001.4	3431	3504	4031	4489	3919	5700
-ENSMUSG00000000003.15	0	0	0	0	0	0
-ENSMUSG00000000028.15	150	136	152	345	273	468
-ENSMUSG00000000031.16	55526	48225	56064	64504	33249	64992
-ENSMUSG00000000037.17	41	44	52	77	68	87
-ENSMUSG00000000049.11	10	8	10	4	1	1
 
 # Графики из анализа DESeq2
 MA-plot:
+![image](https://user-images.githubusercontent.com/93247992/144659501-85643b85-b337-4327-a500-ea0c5ea048be.png)
+
 Тепловая карта:
-Normalized counts:
+![image](https://user-images.githubusercontent.com/93247992/144659548-12db22b2-7341-4b6d-ad49-2dbcc67ad686.png)
+
+![image](https://user-images.githubusercontent.com/93247992/144659606-71b1767b-053f-4948-a17d-6731cea49ea3.png)
+![image](https://user-images.githubusercontent.com/93247992/144659638-d93b46d7-f959-4055-ae58-6e2e15062c2f.png)
 
