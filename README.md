@@ -2,6 +2,8 @@
 # Google colab 
 https://colab.research.google.com/drive/1brGDt6mkPRNz2lLy53fdE4k14rIzk3Gl?usp=sharing
 
+# R
+https://colab.research.google.com/drive/1jbP71nk8H8dIXg4rAW1NT42WPVcQbM7I?usp=sharing
 
 
 # FastQC (29)
